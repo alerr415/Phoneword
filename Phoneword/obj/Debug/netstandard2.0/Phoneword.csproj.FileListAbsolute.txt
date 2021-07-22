@@ -11,3 +11,4 @@ C:\Users\User\Downloads\Phoneword\Phoneword\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\User\Downloads\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.dll
 C:\Users\User\Downloads\Phoneword\Phoneword\obj\Debug\netstandard2.0\ref\Phoneword.dll
 C:\Users\User\Downloads\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.pdb
+C:\Users\User\Downloads\Phoneword\Phoneword\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
